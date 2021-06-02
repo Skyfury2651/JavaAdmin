@@ -13,7 +13,7 @@ git clone https://github.com/Skyfury2651/JavaAdmin.git
 
 ## Install the dependencies
 ```bash
-cd quasar-admin-crm
+cd exam-ui-master
 npm install
 ```
 
