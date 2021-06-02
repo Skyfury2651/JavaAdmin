@@ -62,7 +62,7 @@
               <img src="https://cdn.quasar.dev/img/boy-avatar.png" />
             </q-avatar>
 
-            <q-toolbar-title>Java + quasar </q-toolbar-title>
+            <q-toolbar-title>Java admin </q-toolbar-title>
           </q-toolbar>
           <hr />
           <q-scroll-area style="height:100%;">
